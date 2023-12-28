@@ -23,7 +23,7 @@
 
     <div class="container">
 
-        <a href="{{ route('tasks.index') }}" class="btn btn-secondary mb-3">Show Ongoing Tasks</a>
+        <a href="{{ route('tasks.index') }}" class="btn btn-primary mb-3">Show Ongoing Tasks</a>
         <table class="table table-bordered">
             <thead class="thead-dark">
                 <tr>
